@@ -1,0 +1,575 @@
+[
+    {
+        "name":"51luming",
+        "url":"http://www.51luming.com/member/register/index.html",
+        "telxpath":".//*[@id='re_phone']",
+        "clickxpath":".//*[@id='lg_get_code']"
+    },
+
+    {
+        "name":"telephone1",
+        "url":"http://wap.renrenaijia.com/auth/login",
+        "telxpath":"//*[@id='mobile']",
+        "clickxpath":"/html/body/div[1]/div/div/div/div[4]/span"
+    },
+
+    {
+        "name":"telephone2",
+        "url":"https://vpfinance.cn/h5/user/toregist",
+        "telxpath":"//*[@id='tel']",
+        "clickxpath":"html/body/section/form/div[4]/span[2]"
+    },
+
+    {
+        "name":"hzkshs",
+        "url":"http://hzkshs.com/index.php?m=shop&c=public&a=register",
+        "telxpath":"html/body/div[3]/div/div/div/div[2]/div/form/div[1]/input",
+        "clickxpath":".//*[@id='sendsms']"
+    },
+
+
+    {
+        "name":"fuzhoutongyuan",
+        "url":"http://www.fuzhoutongyuan.com/shop.php?m=shop&c=public&a=register",
+        "telxpath":"html/body/div[3]/div/div/div/div[2]/div/form/div[1]/input",
+        "clickxpath":".//*[@id='sendsms']"
+    },
+
+    {
+        "name":"0379cantime",
+        "url":"www.0379cantime.com/UserCenter/Reg",
+        "telxpath":".//*[@id='U_Mobile']",
+        "clickxpath":".//*[@id='GetCode']"
+    },
+
+    {
+        "name":"cvvvv",
+        "url":"http://www.cvvvv.com/User/Reg",
+        "telxpath":".//*[@id='user_phone']",
+        "clickxpath":".//*[@id='step-first']/div/ul/li[4]/div[1]/a[1]"
+    },
+
+    {
+        "name":"7-event",
+        "url":"http://www.7-event.com/Xe/seasonfair/app/tevent/reg/login/262",
+        "telxpath":"html/body/div[1]/div[2]/div/div/div/p[1]/input",
+        "clickxpath":".//*[@id='forget']"
+    },
+
+    {
+        "name":"xindong8",
+        "url":"http://www.xindong8.com/login/?type=reg",
+        "telxpath":".//*[@id='r-mobile']",
+        "clickxpath":".//*[@id='getNum']"
+    },
+
+    {
+        "name":"champzee",
+        "url":"http://www.champzee.com/weixin/Index/reg.html",
+        "telxpath":".//*[@id='mobile']",
+        "clickxpath":".//*[@id='getCodeBtn']"
+    },
+
+    {
+        "name":"telephone3",
+        "url":"http://www.xycjinfu.com/login/register?registerbz=jinfu",
+        "telxpath":"//*[@id='mobile']",
+        "clickxpath":"//*[@id='getSmsVo']"
+    },
+
+    {
+        "name":"telephone4",
+        "url":"http://h5.mjzhcl.com/Home/reg",
+        "telxpath":"//*[@id='TelPhone']",
+        "clickxpath":"//*[@id='sendVoiceSmsCodeButton']"
+    },
+
+    {
+        "name":"骑士CMS",
+        "url":"http://www.74cms.com/sms.php/login/reg.html",
+        "telxpath":".//*[@id='username']",
+        "clickxpath":".//*[@id='J_send_code']"
+    },
+
+    {
+        "name":"0553fang",
+        "url":"http://www.0553fang.com/m/reg/index1.php",
+        "telxpath":".//*[@id='tmot']",
+        "clickxpath":".//*[@id='tyzm']"
+    },
+
+
+    {
+        "name":"四川汽车客运票务网",
+        "url":"https://www.scqckypw.com/reg/index.html",
+        "telxpath":".//*[@id='txtusername']",
+        "clickxpath":".//*[@id='btn-time']"
+    },
+
+    {
+        "name":"乐学一百",
+        "url":"http://www.lexue100.com/mh5.php?do=reg",
+        "telxpath":".//*[@id='phone_num']",
+        "clickxpath":".//*[@id='get_code']"
+    },
+
+
+    {
+        "name":"福建省青少年发展基金会",
+        "url":"http://www.fjydf.cn/yfportalweb/main/reg.xhtml",
+        "telxpath":".//*[@id='msisdn']",
+        "clickxpath":".//*[@id='sendlink']"
+    },
+
+
+    {
+        "name":"hb.top",
+        "url":"https://hb.top/web/user/reg.do",
+        "telxpath":".//*[@id='phone']",
+        "clickxpath":".//*[@id='getCodeButtonId']"
+    },
+
+    {
+        "name":"享安保险",
+        "url":"https://www.xa-online.com/index.php?m=content&c=index&f=reg",
+        "telxpath":".//*[@id='mobile']",
+        "clickxpath":".//*[@id='sms']"
+    },
+
+
+    {
+        "name":"企宣图",
+        "url":"http://www.qixuantu.com/account/reg",
+        "telxpath":".//*[@id='UserMobile']",
+        "clickxpath":".//*[@id='btn_sendcode']"
+    },
+
+    {   "name":"1号店",
+        "url":"https://passport.yhd.com/passport/register_input.do",
+        "telxpath":".//*[@id='phone']",
+        "clickxpath":".//*[@id='validPhoneCodeDiv']/a"
+    },
+
+    {
+        "name":"51book",
+        "url":"http://caigou.51book.com/caigou/manage/designatedRegistryNewSignon.in",
+        "telxpath":".//*[@id='cg_06']",
+        "clickxpath":".//*[@id='sendMSgBtu']"
+    },
+
+    {
+        "name":"lofter",
+        "url":"http://www.lofter.com/phoneAccount/register",
+        "telxpath":".//*[@id='phone-num']",
+        "clickxpath":".//*[@id='btn-auth']"
+    },
+
+    {
+        "name":"telephone5",
+        "url":"http://wx.atunala.com/reg/reg.html",
+        "telxpath":"//*[@id='phone']",
+        "clickxpath":"//*[@id='sendcode']"
+    },
+
+    {
+        "name":"世界邦",
+        "url":"http://www.shijiebang.com/reg/",
+        "telxpath":".//*[@id='reg_form']/form/table/tbody/tr[1]/td/div/input",
+        "clickxpath":".//*[@id='reg_form']/form/table/tbody/tr[2]/td/div/button"
+    },
+
+
+    {
+        "name":"中国移动",
+        "url":"https://www.cmpassport.com/umc/reg/alias/?from=9",
+        "telxpath":".//*[@id='txtPhone']",
+        "clickxpath":".//*[@id='btnGetSmsCode']"
+    },
+
+    {
+        "name":"千米",
+        "url":"https://www.1000.com/reg?us=3W-head",
+        "telxpath":".//*[@id='react-content']/div/div/div/div[2]/form/div[2]/div[2]/div/div/input",
+        "clickxpath":".//*[@id='send_code']"
+    },
+
+    {
+        "name":"嗨厨房",
+        "url":"https://m.haichufang.com/reg.html",
+        "telxpath":".//*[@id='login']/div[2]/input",
+        "clickxpath":".//*[@id='login']/div[2]/div[2]/div[1]"
+    },
+
+    {
+        "name":"大智慧",
+        "url":"https://i.gw.com.cn/UserCenter/page/account/register",
+        "telxpath":".//*[@id='mobile']",
+        "clickxpath":".//*[@id='sendCode']"
+    },
+
+    {
+        "name":"小米",
+        "url":"https://account.xiaomi.com/pass/register?_locale=zh_CN",
+        "telxpath":".//*[@id='main_container']/div[3]/div[1]/div/div[3]/div[2]/label/input",
+        "clickxpath":".//*[@id='main_container']/div[3]/div[1]/div/div[6]/input"
+    },
+
+    {
+        "name":"广西社保卡",
+        "url":"http://wx.gxsbj.cn/bhwx/userAccountAction!register.do",
+        "telxpath":".//*[@id='tel']",
+        "clickxpath":".//*[@id='btn']"
+    },
+
+    {
+        "name":"微盟",
+        "url":"https://account.weimob.com/register",
+        "telxpath":".//*[@id='phone']",
+        "clickxpath":".//*[@id='signUpForm']/div[3]/a"
+    },
+
+    {
+        "name":"快乐购",
+        "url":"http://www.happigo.com/register/",
+        "telxpath":".//*[@id='mobile']",
+        "clickxpath":".//*[@id='hide_times']"
+    },
+
+
+    {
+        "name":"猪八戒",
+        "url":"https://login.zbj.com/register",
+        "telxpath":".//*[@id='sacc']",
+        "clickxpath":".//*[@id='reg-form']/fieldset/div/div[3]/div[1]/button"
+    },
+
+    {
+        "name":"纵横中文网",
+        "url":"http://passport.zongheng.com/webreg?location=http://www.zongheng.com/",
+        "telxpath":".//*[@id='regphone']",
+        "clickxpath":"html/body/div[3]/div[2]/p[3]/span"
+    },
+
+    {
+        "name":"网利宝",
+        "url":"https://www.wanglibao.com/active/channel/index.html?channel=sgqqdh",
+        "telxpath":".//*[@id='phone']",
+        "clickxpath":".//*[@id='form']/div[3]/input[2]"
+    },
+
+    {
+        "name":"软媒",
+        "url":"https://my.ruanmei.com/?page=register",
+        "telxpath":".//*[@id='phone']",
+        "clickxpath":".//*[@id='sendsms']"
+    },
+
+
+    {
+        "name":"金联储金服",
+        "url":"https://m.jinlianchu.cn/user/register/lc_register?type=ban1&source=2&ozs=60979-2759",
+        "telxpath":".//*[@id='loginMobile']",
+        "clickxpath":".//*[@id='btn']"
+    },
+
+    {
+        "name":"音平",
+        "url":"https://passport.ingping.com/reg/index?retUrl=https://www.ingping.com&fxPid=",
+        "telxpath":".//*[@id='phoneNum']",
+        "clickxpath":".//*[@id='sendRegMsgA']"
+    },
+
+    {
+        "name":"麦付宝",
+        "url":"https://www.maifupay.com/register",
+        "telxpath":"html/body/div[2]/div/div[1]/form/div[1]/input",
+        "clickxpath":".//*[@id='sendVerifySmsButton']"
+    },
+
+    {
+        "name":"游客注册",
+        "url":"http://tourism.jsdth.com:100/register.aspx",
+        "telxpath":"http://tourism.jsdth.com:100/register.aspx",
+        "clickxpath":".//*[@id='btn_mes']"
+    },
+
+    {
+        "name":"帝联云",
+        "url":"https://cloudcdn.dnion.com/DnionCloud/register/",
+        "telxpath":".//*[@id='telephone']",
+        "clickxpath":".//*[@id='form1']/div[4]/div/div[2]/button"
+    },
+
+    {
+        "name":"盛大游戏",
+        "url":"http://register.sdo.com/register/index?appId=4&pageType=mini",
+        "telxpath":".//*[@id='mobile']",
+        "clickxpath":".//*[@id='js_get_phone']"
+    },
+
+    {
+        "name":"才客",
+        "url":"http://www.caikevip.com/register.html",
+        "telxpath":"html/body/div[2]/div/div/div[2]/form/label[1]/input",
+        "clickxpath":".//*[@id='btn-code']"
+    },
+
+    {
+        "name":"找哥们！",
+        "url":"http://www.game2.cn/?view=register",
+        "telxpath":".//*[@id='code_phone']",
+        "clickxpath":".//*[@id='show_verCode']"
+    },
+
+    {
+        "name":"获取动态密码",
+        "url":"https://www.huanjingtrip.com/phone/member/register",
+        "telxpath":".//*[@id='mobile']",
+        "clickxpath":".//*[@id='phonefrm']/div/div[2]/span"
+    },
+
+    {
+        "name":"INCAKE",
+        "url":"http://www.incake.net/webnew/user/register.html",
+        "telxpath":".//*[@id='registerPage']/div/div[2]/ul/li[2]/input",
+        "clickxpath":".//*[@id='registerPage']/div/div[2]/ul/li[3]/a"
+    },
+
+
+    {
+        "name":"球友圈",
+        "url":"http://www.qiuyouzone.com/register",
+        "telxpath":".//*[@id='phone']",
+        "clickxpath":".//*[@id='timeb1']/a"
+    },
+
+    {
+        "name":"华强旗舰",
+        "url":"http://m.hqbuy.com/member/register",
+        "telxpath":".//*[@id='txttelphone']",
+        "clickxpath":".//*[@id='register']/div[1]/div[2]/a"
+    },
+
+    {
+        "name":"观众中心",
+        "url":"http://register.silverindustry.cn/Visitor/Login.aspx?Url=http%3a%2f%2fregister.silverindustry.cn%2fVisitor%2findex.aspx",
+        "telxpath":".//*[@id='txtLoginUserName']",
+        "clickxpath":".//*[@id='link_btn_get_login_code']"
+    },
+
+    {
+        "name":"广东乡村网",
+        "url":"https://www.gdxcw.cn/index.php?s=/Home/Public/register.html",
+        "telxpath":".//*[@id='form_do']/div/div[2]/input",
+        "clickxpath":".//*[@id='form_do']/div/div[3]/a"
+    },
+
+    {
+        "name":"51ctlf",
+        "url":"http://www.51ctlf.com/lvfu/register",
+        "telxpath":".//*[@id='mobilePhone']",
+        "clickxpath":".//*[@id='formInfo']/li[5]/div/a[1]"
+    },
+
+    {
+        "name":"沪江勤工",
+        "url":"http://school-shop.vowkin.com/index/account_manage/register.html",
+        "telxpath":"html/body/div[1]/div[2]/div/div[2]/ul/form/li[1]/input",
+        "clickxpath":"html/body/div[1]/div[2]/div/div[2]/ul/form/li[2]/div/button"
+    },
+
+    {
+        "name":"碧沙康健",
+        "url":"https://hk-server.bisahealth.com/l/register",
+        "telxpath":"html/body/div[1]/div[1]/form/div[1]/div/div[3]/input",
+        "clickxpath":"html/body/div[1]/div[1]/form/div[1]/div/div[3]/button"
+    },
+
+    {
+        "name":"建见建",
+        "url":"https://cdjjjpt.com/login/html/loginPage/login.html",
+        "telxpath":"html/body/div[1]/form/div[1]/input",
+        "clickxpath":"html/body/div[1]/form/div[2]/a[1]"
+    },
+
+    {
+        "name":"天津航铁",
+        "url":"http://htjthr.com/register/index/forget",
+        "telxpath":".//*[@id='fphone']",
+        "clickxpath":"html/body/div[5]/div/div/div/div[4]/div[6]/div/div[3]/a"
+    },
+
+    {
+        "name":"600kaisuo",
+        "url":"http://www.600kaisuo.com/shop.php?m=shop&c=public&a=register",
+        "telxpath":"html/body/div[3]/div/div/div/div[2]/div/form/div[1]/input",
+        "clickxpath":".//*[@id='sendsms']"
+    },
+
+
+    {
+        "name":"sncake",
+        "url":"http://www.sncake.com/webnew/user/register.html",
+        "telxpath":".//*[@id='registerPage']/div/div[2]/ul/li[2]/input",
+        "clickxpath":".//*[@id='registerPage']/div/div[2]/ul/li[3]/a"
+    },
+
+    {
+        "name":"nixingtao",
+        "url":"http://nixingtao.com/home/index/register.html",
+        "telxpath":".//*[@id='mobile']/input",
+        "clickxpath":".//*[@id='btn_mb']"
+    },
+
+    {
+        "name":"黑猫",
+        "url":"http://www.blackcat-jobs.com/Auth/Register",
+        "telxpath":".//*[@id='mobile']",
+        "clickxpath":"html/body/div[1]/div/div[2]/div/div/form/p[4]/a"
+    },
+
+    {
+        "name":"芙田丰园",
+        "url":"http://www.shftfy.com/user/register",
+        "telxpath":".//*[@id='phone']",
+        "clickxpath":".//*[@id='registerForm']/p[4]/a"
+    },
+
+    {
+        "name":"jd95116",
+        "url":"http://www.jd95116.com/shop.php?m=shop&c=public&a=register",
+        "telxpath":"html/body/div[3]/div/div/div/div[2]/div/form/div[1]/input",
+        "clickxpath":".//*[@id='sendsms']"
+    },
+
+    {
+        "name":"及贷",
+        "url":"https://m.haomoney.com/activity/reg/register.html",
+        "telxpath":".//*[@id='root']/div/div[2]/div[1]/input",
+        "clickxpath":".//*[@id='root']/div/div[2]/div[2]/button"
+    },
+
+    {
+        "name":"86btc",
+        "url":"https://www.86btc.com/reg",
+        "telxpath":".//*[@id='moble']",
+        "clickxpath":"html/body/div[2]/div/form/div/div[1]/button"
+    },
+
+    {
+        "name":"zhongguoweb",
+        "url":"https://www.zhongguoweb.cn/member/reg.php",
+        "telxpath":".//*[@id='Mobile']",
+        "clickxpath":".//*[@id='Send1']/a"
+    },
+
+    {
+        "name":"haiji",
+        "url":"http://www.haiji.hk/index/index/reg",
+        "telxpath":".//*[@id='mobile']",
+        "clickxpath":".//*[@id='getcode']"
+    },
+
+    {
+        "name":"jj",
+        "url":"https://www.jj.cn/reg/reg.html",
+        "telxpath":".//*[@id='phone_number']",
+        "clickxpath":".//*[@id='phone_form']/div[2]/span[1]/button"
+    },
+
+    {
+        "name":"fxiaoke",
+        "url":"https://www.fxiaoke.com/mob/reg/reg.html",
+        "telxpath":".//*[@id='reg-getphone']/div[1]/div[3]/input",
+        "clickxpath":".//*[@id='reg-getphone']/div[1]/div[2]"
+    },
+
+    {
+        "name":"newhigh",
+        "url":"http://newhigh.net/login/register",
+        "telxpath":"/html/body/div[1]/div[3]/div/div/div/div[3]/form/div[1]/input[2]",
+        "clickxpath":"/html/body/div[1]/div[3]/div/div/div/div[3]/form/div[4]/button"
+    },
+
+
+    {
+        "name":"yongjujinfu",
+        "url":"http://www.yongjujinfu.com/secure/register.html",
+        "telxpath":"//*[@id='mobile']",
+        "clickxpath":"//*[@id='btnSendCode']"
+    },
+
+
+    {
+        "name":"pingan",
+        "url":"https://stock.pingan.com/ay/newwebsite/register/index.html",
+        "telxpath":"//*[@id='phone']",
+        "clickxpath":"//*[@id='getValideCode']"
+    },
+
+
+    {
+        "name":"sinosafe",
+        "url":"https://m.sinosafe.com.cn/eb-web/user/m/register/index.html",
+        "telxpath":"//*[@id='applicantPhone']",
+        "clickxpath":"/html/body/div[2]/div[1]/div/section/div[2]/div[1]/div[2]/span[2]"
+    },
+
+
+    {
+        "name":"consumer",
+        "url":"http://gallery.consumer.huawei.com/cn/register.php",
+        "telxpath":"/html/body/div[2]/div/div[2]/div[2]/div[1]/input",
+        "clickxpath":"/html/body/div[2]/div/div[2]/div[2]/div[1]/div/p"
+    },
+
+    {
+        "name":"yzslcake",
+        "url":"http://www.yzslcake.com/index.php/wap/login/register",
+        "telxpath":"//*[@id='mobile']",
+        "clickxpath":"//*[@id='sendOutCode']"
+    },
+
+    {
+        "name":"shdmt",
+        "url":"http://www.shdmt.net/user/register.html",
+        "telxpath":"//*[@id='mobile1']",
+        "clickxpath":"//*[@id='yzms1']"
+    },
+
+    {
+        "name":"trthealth",
+        "url":"http://www.trthealth.com/my-trt/register",
+        "telxpath":"//*[@id='mobile']",
+        "clickxpath":"//*[@id='btn_sendmobilecode']"
+    },
+
+    {
+        "name":"dayin",
+        "url":"http://www.dayin.la/site/register.html",
+        "telxpath":"//*[@id='RegisterForm_mobile']",
+        "clickxpath":"//*[@id='J_RegCode']"
+    },
+
+    {
+        "name":"msmbjp",
+        "url":"http://www.msmbjp.com/forum/member.php?mod=register",
+        "telxpath":"//*[@id='pc_reg_mobile']",
+        "clickxpath":"//*[@id='pc_reg_get_verify']"
+    },
+
+    {
+        "name":"hk-server",
+        "url":"http://hk-server.bisahealth.com/l/register",
+        "telxpath":"/html/body/div/div[1]/form/div[1]/div/div[3]/input",
+        "clickxpath":"/html/body/div/div[1]/form/div[1]/div/div[3]/button"
+    },
+
+
+    {
+        "name":"zhao-wanggou",
+        "url":"http://www.zhao-wanggou.com/home/register",
+        "telxpath":"//*[@id='reg_mobile']",
+        "clickxpath":"/html/body/div/div[2]/div/div/div/div[1]/form/div[2]/div/a"
+    }
+]

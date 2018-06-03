@@ -1,0 +1,389 @@
+[
+    {
+        "url":"https://www.owhat.cn/user/register.html",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+        "url":"https://www.hpzhan.com/register.html",
+        "telxpath":"//*[@id='phone']"
+    },
+
+    {
+        "url":"https://www.bmqb.com/account/register",
+        "telxpath":"/html/body/div[4]/div/div/form/div[1]/div[2]/input"
+    },
+
+    {
+        "url":"https://passport.tianya.cn/register/default.jsp",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"https://login.cloud.inspur.com/cas/register",
+        "telxpath":"//*[@id='user_phone']"
+    },
+
+    {
+
+        "url":"https://yt.21mhealth.com/web/210/hospitals/176/user/register",
+        "telxpath":"//*[@id='J_phone']"
+    },
+
+    {
+
+        "url":"http://www.colasjs.com/register",
+        "telxpath":"/html/body/div[2]/div/div[2]/input[1]"
+    },
+
+    {
+
+        "url":"https://webapp.yongche.com/touch/register.php",
+        "telxpath":"//*[@id='cellphone']"
+    },
+
+    {
+
+        "url":"http://www.moore.ren/register/register.htm",
+        "telxpath":"/html/body/div[2]/div/div/div/div[1]/div[1]/div[2]/form/div[1]/input"
+    },
+
+    {
+
+        "url":"https://www.itiancai.com/register",
+        "telxpath":"//*[@id='cellphone']"
+    },
+
+    {
+
+        "url":"http://www.qingmayun.com/user/register.html",
+        "telxpath":"//*[@id='moblie']"
+    },
+
+    {
+"ok":"ok",
+        "url":"https://vpfinance.cn/h5/user/toregist",
+        "telxpath":"//*[@id='tel']"
+    },
+
+    {
+
+        "url":"https://reg.lingxi360.com/register",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"https://ucenter.cn-healthcare.com/rlogin/toregister",
+        "telxpath":"//*[@id='mmemUserId']"
+    },
+
+    {
+
+        "url":"https://www.yiyijinfu.com/ssl/toReg.html",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+"ok":"ok",
+        "url":"http://wap.renrenaijia.com/auth/login",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"https://www.haixingbao.com/regist.jsp",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"http://www.artsdoor.org/registeruser.htm",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"https://www.houbank.com/user/regPrepared.cc",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"http://www.e7wei.com/register.html",
+        "telxpath":"//*[@id='phone']"
+    },
+
+    {
+
+        "url":"https://user.wacai.com/reform/mob/register?mc=&platform=42&version=&a_f=",
+        "telxpath":"/html/body/div/div/section/div[2]/div[1]/input"
+    },
+
+    {
+
+        "url":"https://cloud.shinewonder.com/user/registion",
+        "telxpath":"//*[@id='phone']"
+    },
+
+    {
+
+        "url":"http://shufe.yiban.cn/user/reg/index?type=baseinfo",
+        "telxpath":"//*[@id='phoneNum']"
+    },
+
+    {
+
+        "url":"http://wap.renrentou.com/register/index",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"https://www.xingkeduo.com/web/signup",
+        "telxpath":"//*[@id='sign_up_mobile']"
+    },
+
+    {
+
+        "url":"https://www.phonelee.com/God/Create",
+        "telxpath":"//*[@id='Mobile']"
+    },
+
+    {
+
+        "url":"https://m.xinhe99.com/views/register/register.html",
+        "telxpath":"//*[@id='phone']"
+    },
+
+    {
+
+        "url":"https://wap.ehuodi.com/invitationAward/register.html?callback=https://wap.ehuodi.com/msite/registrcomplete.html",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"http://www.8868.cn/register",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"https://h5.hejiajinrong.com/share/register.html?mobile=186****5297&track_id=16484687",
+        "telxpath":"/html/body/div[1]/div/dl/dt/input"
+    },
+
+    {
+
+        "url":"https://www.gcbi.com.cn/gcuser/html/register/newRegister",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"https://www.gqget.com/register/first",
+        "telxpath":"//*[@id='mobilePhone']"
+    },
+
+    {
+
+        "url":"https://www.ybaby.com/mobile/register.html?fromurl=/customer/coupon.html&scode=",
+        "telxpath":"//*[@id='mob']"
+    },
+
+    {
+
+        "url":"http://passport.n8n8.cn/register/",
+        "telxpath":"/html/body/div[2]/form/div[3]/input"
+    },
+
+    {
+
+        "url":"https://www.youmiqianbao.com/register.html",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"http://www.custeel.com/register/registerAll.jsp",
+        "telxpath":"//*[@id='useremobile']"
+    },
+
+    {
+
+        "url":"https://www.hqblicai.com/user/register.html",
+        "telxpath":"//*[@id='phone']"
+    },
+
+    {
+
+        "url":"http://www.acadsoc.com.cn/register.aspx",
+        "telxpath":"//*[@id='ctl00_TxtPhone']"
+    },
+
+    {
+
+        "url":"http://wap.incake.net/activity/mof-register.aspx",
+        "telxpath":"//*[@id=UserMail]"
+    },
+
+    {
+
+        "url":"http://i.yiche.com/authenservice/RegisterSimple/MobileRegister.html",
+        "telxpath":"//*[@id='txt_mobile']"
+    },
+
+    {
+"ok":"ok",
+        "url":"http://www.xycjinfu.com/login/register?registerbz=jinfu",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"http://m.quanlaoda.com/auth/register",
+        "telxpath":"//*[@id='tel']"
+    },
+
+    {
+
+        "url":"http://nm.goocoin.com/m/register.html",
+        "telxpath":"//*[@id='ph']"
+    },
+
+    {
+
+        "url":"https://www.16ker.com/regCustomer.html;jsessionid=7C980D66D98569CDEFBCFA4B7AA0676B-n1",
+        "telxpath":"//*[@id='phone']"
+    },
+
+    {
+
+        "url":"https://m.wuxingjinrong.com/register",
+        "telxpath":"//*[@id='phone']"
+    },
+
+
+    {
+
+        "url":"http://passport.hijobs.cn/auth/register",
+        "telxpath":"//*[@id='hunter_mobile']"
+    },
+
+    {
+
+        "url":"https://wx.jinlianchu.cn/index.php?r=public%2Fregister",
+        "telxpath":"//*[@id='regiPhone']"
+    },
+
+
+    {
+
+        "url":"https://u.jjhgame.com/Register.aspx?ChannelID=2",
+        "telxpath":"//*[@id='textMobile']"
+    },
+
+    {
+
+        "url":"https://beijing.syzljh.cn/account/register/index.html",
+        "telxpath":"//*[@id='user-mobile']"
+    },
+
+    {
+
+        "url":"http://www.qiaobutang.com/account/register",
+        "telxpath":"/html/body/div[2]/div[2]/form/div/div[1]/div[2]/input"
+    },
+
+    {
+
+        "url":"http://m.qtshe.com/h5/reg.html",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"http://m.kgtshop.com/wap/site/reg",
+        "telxpath":"//*[@id='tel']"
+    },
+
+    {
+
+        "url":"http://account.191.cn/index.php/reg/",
+        "telxpath":"/html/body/div[2]/div/form/div[2]/div[1]/div[1]/input"
+    },
+
+    {
+
+        "url":"http://www.dianxinjr.com/login/reg",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+"ok":"ok",
+        "url":"http://h5.mjzhcl.com/Home/reg",
+        "telxpath":"//*[@id='TelPhone']"
+    },
+
+    {
+
+        "url":"https://www.sanhaoziben.com/reg.mht",
+        "telxpath":"//*[@id='cellphone']"
+    },
+
+    {
+
+        "url":"https://pf.winbons.com/reg",
+        "telxpath":"//*[@id='reg_username']"
+    },
+
+    {
+
+        "url":"https://www.icyd.com/reg",
+        "telxpath":"//*[@id='userName']"
+    },
+
+    {
+
+        "url":"http://www.sosoyuyin.com/reg.php",
+        "telxpath":"//*[@id='calling']"
+    },
+
+    {
+
+        "url":"https://www.wbbwd.com/reg",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"https://login.xebest.com/reg/regUserByTel.shtml",
+        "telxpath":"//*[@id='mobile']"
+    },
+
+    {
+
+        "url":"http://www.ht.cn/user-reg.html",
+        "telxpath":"//*[@id='cellphone']"
+    },
+
+    {
+"ok":"ok",
+        "url":"http://wx.atunala.com/reg/reg.html",
+        "telxpath":"//*[@id='phone']"
+    },
+
+    {
+
+        "url":"http://ctc.hybyj.net/index.php/Home/User/reg/uid/40.html",
+        "telxpath":"//*[@id='phone']"
+    },
+
+    {
+
+        "url":"http://m.haoche.cn/Customer/login/reg?returl=http%3A%2F%2Fm.haoche.cn%2FHome%2FDetail1%2F29ccd2c8451f400698be9f294744c6ea%3Ffrom%3Dtimeline%26isappinstalled%3D0",
+        "telxpath":"//*[@id='Tel']"
+    }
+    ]
