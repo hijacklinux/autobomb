@@ -19,11 +19,6 @@
         "telxpath":"//*[@id='mobile']"
     },
 
-    {
-
-        "url":"https://login.cloud.inspur.com/cas/register",
-        "telxpath":"//*[@id='user_phone']"
-    },
 
     {
 
